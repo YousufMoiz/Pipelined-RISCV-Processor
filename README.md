@@ -1,0 +1,2 @@
+# Pipelined-RISCV-Processor
+This was a project for my course 'Computer Architecture' in which we first designed and tested a single cycle RISC-V processor and then converted it to a pipelined one with complete hazard detection. At the moment, it supports only a subset of the RISC-V instructions which are add, addi, sub, beq, blt, ld and sd. The coding of the processor was done on Verilog and the processor was simulated on ModelSim.
